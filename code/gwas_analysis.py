@@ -2,8 +2,7 @@
 
 """
 GWAS Analysis Script for Mouse Strain Data
-Author: Gloria Wang
-Description: Performs association testing and generates visualizations
+Performs association testing and generates visualizations
 """
 
 import os
