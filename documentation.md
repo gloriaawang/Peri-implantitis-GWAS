@@ -47,13 +47,6 @@ The GWAS analysis pipeline consists of three main stages:
   - Phenotype file path
   - Output directory
 
-## Configuration
-The config.yaml file contains all adjustable parameters including:
-- File paths
-- Quality control thresholds
-- Statistical parameters
-- Output preferences
-
 ## Output Files
 - Merged variant data (VCF format)
 - Quality-controlled PLINK files (.bed, .bim, .fam)
